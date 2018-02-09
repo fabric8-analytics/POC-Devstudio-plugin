@@ -10,8 +10,8 @@
  *******************************************************************************/
 package com.redhat.fabric8analytics.lsp.eclipse.ui.tests;
 
-import com.redhat.fabric8analytics.lsp.eclipse.core.internal.AnalyticsAuthService;
-import com.redhat.fabric8analytics.lsp.eclipse.ui.Fabric8AnalyticsStreamConnectionProvider;
+import com.redhat.fabric8analytics.eclipse.core.internal.AnalyticsAuthService;
+import com.redhat.fabric8analytics.eclipse.lsp.core.Fabric8AnalyticsStreamConnectionProvider;
 
 //wrapper class for Fabric8AnalyticsStreamConnectionProvider to be able to access protected methods
 public class Fabric8AnalyticsStreamConnectionProviderWrapper extends Fabric8AnalyticsStreamConnectionProvider{

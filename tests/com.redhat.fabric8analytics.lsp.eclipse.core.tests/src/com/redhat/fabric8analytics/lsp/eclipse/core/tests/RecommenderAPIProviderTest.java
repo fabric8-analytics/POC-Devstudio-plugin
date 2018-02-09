@@ -51,10 +51,10 @@ import org.junit.Before;
 import org.junit.Test;
 import org.mockito.ArgumentCaptor;
 
-import com.redhat.fabric8analytics.lsp.eclipse.core.RecommenderAPIException;
-import com.redhat.fabric8analytics.lsp.eclipse.core.RecommenderAPIProvider;
-import com.redhat.fabric8analytics.lsp.eclipse.core.data.AnalyticsAuthData;
-import com.redhat.fabric8analytics.lsp.eclipse.core.data.ThreeScaleData;
+import com.redhat.fabric8analytics.eclipse.core.RecommenderAPIException;
+import com.redhat.fabric8analytics.eclipse.core.RecommenderAPIProvider;
+import com.redhat.fabric8analytics.eclipse.core.data.AnalyticsAuthData;
+import com.redhat.fabric8analytics.eclipse.core.data.ThreeScaleData;
 
 public class RecommenderAPIProviderTest {
 

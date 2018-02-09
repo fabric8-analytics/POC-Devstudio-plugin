@@ -13,7 +13,9 @@
 	<name>com.redhat.fabric8analytics.eclipse plugins</name>	
 	<packaging>pom</packaging>
 	<modules>
-		<module>com.redhat.fabric8analytics.lsp.eclipse.core</module>
-		<module>com.redhat.fabric8analytics.lsp.eclipse.ui</module>
+		<module>com.redhat.fabric8analytics.eclipse.core</module>
+		<module>com.redhat.fabric8analytics.eclipse.ui</module>
+		<module>com.redhat.fabric8analytics.eclipse.lsp.ui</module>
+		<module>com.redhat.fabric8analytics.eclipse.lsp.core</module>
 	</modules>
 </project>

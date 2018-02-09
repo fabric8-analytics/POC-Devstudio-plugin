@@ -34,11 +34,11 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.redhat.fabric8analytics.lsp.eclipse.core.Fabric8AnalysisPreferences;
-import com.redhat.fabric8analytics.lsp.eclipse.core.data.AnalyticsAuthData;
-import com.redhat.fabric8analytics.lsp.eclipse.core.data.ThreeScaleData;
-import com.redhat.fabric8analytics.lsp.eclipse.core.internal.AnalyticsAuthService;
-import com.redhat.fabric8analytics.lsp.eclipse.ui.Fabric8AnalyticsStreamConnectionProvider;
+import com.redhat.fabric8analytics.eclipse.core.data.AnalyticsAuthData;
+import com.redhat.fabric8analytics.eclipse.core.data.ThreeScaleData;
+import com.redhat.fabric8analytics.eclipse.core.internal.AnalyticsAuthService;
+import com.redhat.fabric8analytics.eclipse.core.Fabric8AnalysisPreferences;
+import com.redhat.fabric8analytics.eclipse.lsp.core.Fabric8AnalyticsStreamConnectionProvider;
 
 public class Fabric8AnalyticsStreamConnectionProviderTest {
 	

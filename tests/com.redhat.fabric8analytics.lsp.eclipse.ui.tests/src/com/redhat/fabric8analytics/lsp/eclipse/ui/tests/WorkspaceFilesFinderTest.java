@@ -36,7 +36,7 @@ import org.hamcrest.TypeSafeMatcher;
 import org.junit.After;
 import org.junit.Test;
 
-import com.redhat.fabric8analytics.lsp.eclipse.ui.internal.WorkspaceFilesFinder;
+import com.redhat.fabric8analytics.eclipse.ui.internal.WorkspaceFilesFinder;
 
 public class WorkspaceFilesFinderTest {
 
